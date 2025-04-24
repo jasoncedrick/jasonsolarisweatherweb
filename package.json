@@ -17,7 +17,7 @@
     "react-scripts": "4.0.3",
     "styled-components": "^5.3.3"
   },
-  "homepage": "https://hpenacho.github.io/solaris-weather-app",
+  "homepage": "https://jasoncedrick.github.io/jasonsolarisweatherweb",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
